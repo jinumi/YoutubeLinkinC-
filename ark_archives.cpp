@@ -56,7 +56,7 @@ int main()
         std::this_thread::sleep_for(std::chrono::seconds(1)); // Use the standard sleep function
     }
 
-    system("start https://youtu.be/46ao3qU-QvQ");
+    system("start https://youtu.be/46ao3qU-QvQ"); // open YouTube video
 
     return 0;
 }
